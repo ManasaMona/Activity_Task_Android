@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="button_todayTasks">Today Tasks</string>
+    <string name="button_tomorrowTasks">Tomorrow Tasks</string>
+    <string name="today_title">List down today tasks </string>
+    <string name="tomorrow_title">List down tomorrow tasks </string>
+</resources>
